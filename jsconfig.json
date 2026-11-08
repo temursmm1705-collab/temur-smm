@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "ES3",
+    "lib": ["ES5"],
+    "noLib": true,
+    "checkJs": false,
+    "types": []
+  },
+  "include": [
+    "scripts/**/*.jsx",
+    "node_modules/types-for-adobe/AfterEffects/26.0",
+    "node_modules/types-for-adobe/Premiere/24.0",
+    "node_modules/types-for-adobe/shared/global.d.ts",
+    "node_modules/types-for-adobe/shared/JavaScript.d.ts",
+    "node_modules/types-for-adobe/shared/ScriptUI.d.ts"
+  ]
+}

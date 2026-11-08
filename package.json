@@ -1,0 +1,23 @@
+{
+  "name": "temur-smm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/temursmm1705-collab/temur-smm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/temursmm1705-collab/temur-smm/issues"
+  },
+  "homepage": "https://github.com/temursmm1705-collab/temur-smm#readme",
+  "devDependencies": {
+    "types-for-adobe": "^7.2.6"
+  }
+}
