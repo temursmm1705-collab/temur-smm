@@ -18,6 +18,15 @@
   },
   "homepage": "https://github.com/temursmm1705-collab/temur-smm#readme",
   "devDependencies": {
+    "hyperframes": "^0.9.25",
     "types-for-adobe": "^7.2.6"
+  },
+  "dependencies": {
+    "@remotion/cli": "^4.0.541",
+    "@remotion/renderer": "^4.0.541",
+    "gsap": "^3.15.0",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "remotion": "^4.0.541"
   }
 }

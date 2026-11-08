@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "historyId": "eca16f48-3bb5-44f9-b2cd-5df209ffd0de",
+  "currentRevision": "7db58314-9db3-4845-9aa5-b0f4a2cdc46e",
+  "pendingChanges": false,
+  "files": {
+    "AGENTS.md": {
+      "hash": "18bcca1593d1b29cd7442b3dc91d18ada440affb9b7acd577c1da57446f3d24f",
+      "content": "/root/.cache/hyperframes/history/eca16f48-3bb5-44f9-b2cd-5df209ffd0de/blobs/18/18bcca1593d1b29cd7442b3dc91d18ada440affb9b7acd577c1da57446f3d24f"
+    },
+    "CLAUDE.md": {
+      "hash": "18bcca1593d1b29cd7442b3dc91d18ada440affb9b7acd577c1da57446f3d24f",
+      "content": "/root/.cache/hyperframes/history/eca16f48-3bb5-44f9-b2cd-5df209ffd0de/blobs/18/18bcca1593d1b29cd7442b3dc91d18ada440affb9b7acd577c1da57446f3d24f"
+    },
+    "hyperframes.json": {
+      "hash": "53dbce1e19aa713cbb12ee0bc4d206143b45ab15e6ffbfcaa8f69572d4d24d50",
+      "content": "/root/.cache/hyperframes/history/eca16f48-3bb5-44f9-b2cd-5df209ffd0de/blobs/53/53dbce1e19aa713cbb12ee0bc4d206143b45ab15e6ffbfcaa8f69572d4d24d50"
+    },
+    "index.html": {
+      "hash": "831124119746d4c8f598c877286f69078e1aecd5993123bbcd68ed13f6b1f7ef",
+      "content": "/root/.cache/hyperframes/history/eca16f48-3bb5-44f9-b2cd-5df209ffd0de/blobs/83/831124119746d4c8f598c877286f69078e1aecd5993123bbcd68ed13f6b1f7ef"
+    },
+    "meta.json": {
+      "hash": "25ce7987090eb17ba964046c59c086c800a8843e708987b293745511c9975a06",
+      "content": "/root/.cache/hyperframes/history/eca16f48-3bb5-44f9-b2cd-5df209ffd0de/blobs/25/25ce7987090eb17ba964046c59c086c800a8843e708987b293745511c9975a06"
+    },
+    "package.json": {
+      "hash": "ac6ae08f8b6f84bef91614c3ab95d5da982d4639d07fb59a1759fef0f400921a",
+      "content": "/root/.cache/hyperframes/history/eca16f48-3bb5-44f9-b2cd-5df209ffd0de/blobs/ac/ac6ae08f8b6f84bef91614c3ab95d5da982d4639d07fb59a1759fef0f400921a"
+    },
+    "vendor/gsap.min.js": {
+      "hash": "92bb9a96476f983d212a2bc4f54c889039c1696dd4461d40a736860938570fbb",
+      "content": "/root/.cache/hyperframes/history/eca16f48-3bb5-44f9-b2cd-5df209ffd0de/blobs/92/92bb9a96476f983d212a2bc4f54c889039c1696dd4461d40a736860938570fbb"
+    }
+  },
+  "revisions": {
+    "7db58314-9db3-4845-9aa5-b0f4a2cdc46e": {
+      "actor": {
+        "kind": "outside",
+        "name": "Outside"
+      },
+      "label": "Changed outside the app",
+      "startedAt": 1794171253493,
+      "endedAt": 1794171253503,
+      "files": {
+        "index.html": {
+          "before": "/root/.cache/hyperframes/history/eca16f48-3bb5-44f9-b2cd-5df209ffd0de/blobs/bb/bb26a8f483c4b8ed34f95e1a3fd8bd97e06440351dcb1c24c71d2abdbb1a1d15",
+          "after": "/root/.cache/hyperframes/history/eca16f48-3bb5-44f9-b2cd-5df209ffd0de/blobs/83/831124119746d4c8f598c877286f69078e1aecd5993123bbcd68ed13f6b1f7ef"
+        },
+        "vendor/gsap.min.js": {
+          "before": null,
+          "after": "/root/.cache/hyperframes/history/eca16f48-3bb5-44f9-b2cd-5df209ffd0de/blobs/92/92bb9a96476f983d212a2bc4f54c889039c1696dd4461d40a736860938570fbb"
+        }
+      }
+    }
+  },
+  "checks": {
+    "latest": null,
+    "revisions": {},
+    "unversioned": []
+  },
+  "snapshots": {
+    "latest": null,
+    "revisions": {},
+    "unversioned": []
+  },
+  "renders": {
+    "latest": {
+      "id": "3b3737e1-4549-4700-bb34-7088158726d1",
+      "completedAt": 1794171260122,
+      "output": "/home/user/temur-smm/export/test-hyperframes.mp4",
+      "status": "completed",
+      "revision": "7db58314-9db3-4845-9aa5-b0f4a2cdc46e"
+    },
+    "retainedRevisions": [
+      "7db58314-9db3-4845-9aa5-b0f4a2cdc46e"
+    ]
+  },
+  "pendingArtifactCleanup": []
+}
